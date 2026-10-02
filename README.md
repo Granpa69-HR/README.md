@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=7wp81x+%2F%2F+J457;Full-Stack+Developer;Security+Researcher;I+build+it.+Then+I+break+it." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Granpa69HR+%2F%2F+108;Full-Stack+Developer;Security+Researcher;I+build+it.+Then+I+break+it." alt="Typing SVG" />
 
 <br>
 
@@ -214,15 +214,15 @@ Full-stack dev who builds things professionally and breaks them personally. Web,
 ## `$ git log --stat`
 
 <!-- Row 1: Stats + Most Commit Language — inline 50% each, no whitespace between tags -->
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7wp81x&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="GitHub Stats" width="49.5%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7wp81x&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="Most Commit Language" width="49.5%" /></div>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Granpa69-HR&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="GitHub Stats" width="49.5%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Granpa69-HR&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="Most Commit Language" width="49.5%" /></div>
 
 <!-- Row 2: Repos Per Language + Productive Time -->
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7wp81x&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="Repos Per Language" width="49.5%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7wp81x&theme=default&utcOffset=8&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="Productive Time" width="49.5%" /></div>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Granpa69-HR&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="Repos Per Language" width="49.5%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Granpa69-HR&theme=default&utcOffset=8&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="Productive Time" width="49.5%" /></div>
 
 <!-- Row 3: Profile Details — full width, same API family so colors work correctly -->
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7wp81x&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Granpa69-HR&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0"
     alt="Profile Details"
     width="100%"
   />
@@ -231,7 +231,7 @@ Full-stack dev who builds things professionally and breaks them personally. Web,
 <!-- Row 4: Streak — full width -->
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=0A0E14&border=1E2533&stroke=1E2533&ring=00E5A0&fire=00B87F&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00E5A0&sideLabels=8B949E&dates=8B949E&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Granpa69-HR&background=0A0E14&border=1E2533&stroke=1E2533&ring=00E5A0&fire=00B87F&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00E5A0&sideLabels=8B949E&dates=8B949E&hide_border=false"
     alt="GitHub Streak"
     width="100%"
   />
@@ -241,6 +241,6 @@ Full-stack dev who builds things professionally and breaks them personally. Web,
 
 <div align="center">
 
-<sub>© 2026 7wp81x (J457)</sub>
+<sub>© 2026 Granpa69-HR</sub>
 
 </div>
